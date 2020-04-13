@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is E025-6797
-
- Directory of C:\Users\dharmender\Desktop\GitDemoSecond
-
-13-04-2020  14:47    <DIR>          .
-13-04-2020  14:47    <DIR>          ..
-13-04-2020  14:47                 0 test001.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  145,561,780,224 bytes free
+hello word how are you
